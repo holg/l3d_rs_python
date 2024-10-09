@@ -1,6 +1,6 @@
 [package]
 name = "l3d_rs_python"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Holger Trahe <trahe@mac.com>"]
 documentation = "https://docs.rs/l3d-rs-python/"
